@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    color: var(--wh);
+}
+
+:root{
+    --yell: #fab005;
+    --wh: #fff2f1;
+}
+
+body{
+    background-color: #00202B;
+}
+
+.header{
+    padding-left: 30px;
+    display: block;
+    margin: 70px 50px;
+}
+
+.header h1{
+    font-size: 3rem;
+}
+
+.header h1 i{
+    color: var(--yell);
+}
